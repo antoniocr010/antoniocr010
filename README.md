@@ -1,4 +1,5 @@
-### Olá!👋
+<h1 align="center">👋 Hello, Welcome to my profile
+<img src="https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO" width="25"></h1>
 
 - 🌱 Atualmente estudando Javascript ...
 - 📝 Fazendo trabalhos Freelancer ...
