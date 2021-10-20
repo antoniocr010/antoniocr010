@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, Welcome to my profile
-<img src="https://giphy.com/gifs/sciencechannel-space-science-astronomy-zLfVHjfqNJ5pFwBjzr"></h1>
+</h1>
 
 - 🌱 Atualmente estudando o framework Vuejs ...
 - 📝 Fazendo trabalhos Freelancer ...
