@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, Welcome to my profile
+<h1 align="center">👋 Olá, Bem vindo! 
 </h1>
 <h5>👨🏻‍💻 Sobre mim:</h5>
 - 🚀Sou iniciante, apaixonado por aprender coisas novas.<br/>
