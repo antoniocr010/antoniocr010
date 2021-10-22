@@ -30,10 +30,11 @@
      <a href = "mailto:antoniobr.dev010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antonio-m-706a48216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <div>
-    <br>
-    
-[![Ashutosh's github activity graph] (https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
   
+   
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
     
 
