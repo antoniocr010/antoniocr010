@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hello, Welcome to my profile
 </h1>
-
-- 🌱 Atualmente estudando o framework Vuejs ...
-- 📝 Fazendo trabalhos Freelancer ...
+<h5>👨🏻‍💻 Sobre mim:</h5>
+- 🚀Sou iniciante, apaixonado por aprender coisas novas.<br/>
+-📝 Estudando desenvolvimento web e praticando problemas. <br/>
+-🌱 Atualmente estudando o framework Vuejs .
 
  <div>
   <a href="https://github.com/antniocr010">
@@ -32,9 +33,9 @@
    <div>
   
    
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=antoniocr010&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
     
 
