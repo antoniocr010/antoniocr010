@@ -1,5 +1,6 @@
 <h1 align="center">👋 Olá, Bem-vindo! 
 </h1>
+<div>![](https://komarev.com/ghpvc/?username=antoniocr010&color=brightgreen)</div>
 <h5>👨🏻‍💻 Sobre mim:</h5>
 - 🚀Sou iniciante, apaixonado por aprender coisas novas.<br/>
 -📝 Estudando desenvolvimento web e praticando problemas. <br/>
@@ -24,6 +25,8 @@
   <img align="center" alt="AT-git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <div>
+   
+   
    
    ##
    
