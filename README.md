@@ -27,9 +27,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="AT-nodejs" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <style> background-image:# 11479 ;</tyle>
+
   <div>
-   ##
+   
    
    <div>
      <a href="https://discord.gg/Antonio Cr.#9074" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
