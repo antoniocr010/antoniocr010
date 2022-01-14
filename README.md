@@ -1,9 +1,8 @@
 <h1 align="center">👋 Olá, Bem-vindo! 
 </h1>
 <h5>👨🏻‍💻 Sobre mim:</h5>
-- 🚀Sou iniciante, apaixonado por aprender coisas novas.<br/>
--📝 Estudando desenvolvimento web e praticando problemas. <br/>
--🌱 Atualmente estudando o framework Vuejs .
+-📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
+-🌱  Atualmente utilizo o framework Vuejs .
 <br/>
 <br/>
  <div>
