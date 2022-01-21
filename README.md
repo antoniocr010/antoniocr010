@@ -1,6 +1,8 @@
-<h1 align="center">👋 Olá, Bem-vindo! 
+<h1 align="center"><img src="./Hi.gif" height="30px"/> Olá! 
 </h1>
-<img src="./77vm.gif"  height='200px'/>
+<div display='flex'>
+<img src="./77vm.gif"  height=300px'/>
+<img src="./tenor.gif"  height='300px'/></div>
 <h5>👨🏻‍💻 Sobre mim:</h5>
 -📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
 -🌱  Atualmente utilizo o framework Vuejs .
@@ -11,7 +13,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=antoniocr010&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocr010&layout=compact&langs_count=7&theme=dark"/>
 </div>
- <div style="display: inline_block"><br>
+ <div style="display:flex"><br>
   <img align="center" alt="AT-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AT-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
