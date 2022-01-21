@@ -1,5 +1,6 @@
 <h1 align="center">👋 Olá, Bem-vindo! 
 </h1>
+<img src="./77vm.gif"  height='200px'/>
 <h5>👨🏻‍💻 Sobre mim:</h5>
 -📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
 -🌱  Atualmente utilizo o framework Vuejs .
