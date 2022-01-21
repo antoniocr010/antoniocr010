@@ -1,18 +1,18 @@
 <h1 align="center"><img src="./Hi.gif" height="30px"/> Olá! 
 </h1>
 <div display='flex'>
-<img src="./77vm.gif"  height=300px'/>
-<img src="./tenor.gif"  height='300px'/></div>
-<h5>👨🏻‍💻 Sobre mim:</h5>
+<img src="./77vm.gif"  height=250px'/>
+<h5>👨🏻‍💻 SOBRE MIM:</h5>
 -📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
--🌱  Atualmente utilizo o framework Vuejs .
+-🌱 Habilidades: Vue JS, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass, Basico testes com Cypress.<br/>
+-🖥 Ferramentas: VSCode, Terminal, Git // Sistema: Linux_Mint /BS-Ubuntu.
 <br/>
 <br/>
  <div>
   <a href="https://github.com/antniocr010">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=antoniocr010&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocr010&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div><div display='flex'>
  <div style="display:flex"><br>
   <img align="center" alt="AT-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AT-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,7 +29,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="AT-nodejs" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <div>
+  <div></div>
    
    
 ##
