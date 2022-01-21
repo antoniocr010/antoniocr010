@@ -2,13 +2,12 @@
 </h1>
 <div display='flex'>
 <img src="./77vm.gif"  height=250px'/>
+<div display='flex'>
 <h5>👨🏻‍💻 SOBRE MIM:</h5>
 -📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
 -🌱 Habilidades: Vue JS, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass, Basico testes com Cypress.<br/>
 -🖥 Ferramentas: VSCode, Terminal, Git // Sistema: Linux_Mint /BS-Ubuntu.
-<br/>
-<br/>
- <div>
+<br/><br/>
   <a href="https://github.com/antniocr010">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=antoniocr010&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocr010&layout=compact&langs_count=7&theme=dark"/>
