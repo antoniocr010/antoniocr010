@@ -3,8 +3,8 @@
 <img src="./77vm.gif"  height=180px'/>
 <h5>👨🏻‍💻 SOBRE MIM:</h5>
 -📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
--🌱 Habilidades: Vue JS, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass, Basico testes com Cypress.<br/>
--🖥 Ferramentas: VSCode, Terminal, Git // Sistema: Linux_Mint /BS-Ubuntu.
+-🌱 Habilidades: Vue JS, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass, Teste fluxo aplicação E2E.<br/>
+-🖥 Ferramentas: VSCode, Terminal, Git // Sistema: Linux_Mint /B-Ubuntu.
  <br/><br/>
   <a href="https://github.com/antniocr010">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=antoniocr010&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
