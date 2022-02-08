@@ -1,5 +1,5 @@
-<h1 align="center"><img src="./Hi.gif" height="30px"/> Olá! 
-</h1>
+<h2 align="center"><img src="./Hi.gif" height="25px"/> Olá! 
+</h2>
 <h5>👨🏻‍💻 SOBRE MIM:</h5>
 -📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
 -🌱 Habilidades: Vue JS, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass, Teste fluxo aplicação E2E.<br/>
