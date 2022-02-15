@@ -1,6 +1,4 @@
-<h2 align="center"><img src="./Hi.gif" height="25px"/> Olá! 
-</h2>
-<h5>👨🏻‍💻 SOBRE MIM:</h5>
+<h4>👨🏻‍💻 SOBRE MIM:</h4>
 -📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
 -🌱 Habilidades: Vue JS, Vuex, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
 -🖥 Ferramentas: VSCode, Terminal, Git // Sistema:Linux_Mint 
