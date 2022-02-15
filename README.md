@@ -3,6 +3,7 @@
 -🌱 Habilidades: Vue JS, Vuex, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
 -🖥 Ferramentas: VSCode, Terminal, Git // Sistema:Linux_Mint 
  <br/><br/>
+ <div style="display:inline-block">
   <a href="https://github.com/antniocr010">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=antoniocr010&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocr010&layout=compact&langs_count=7&theme=dark"/>
@@ -30,7 +31,7 @@
 ##
    <div>
      <a href="https://discord.gg/Antonio Cr.#9074" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-     <a href = "mailto:antoniobr.dev010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "mailto:antoniobr.dev010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antonio-m-706a48216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <div>
   
