@@ -1,7 +1,7 @@
 <h4>👨🏻‍💻 SOBRE MIM:</h4>
 -📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
--🌱 Habilidades: Vue JS, Vuex, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
--🖥 Ferramentas: VSCode, Terminal, Git // Sistema:Linux_Mint 
+-🌱 Habilidades: Vue JS, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
+-🖥 Ferramentas: VSCode, Terminal, Git // Sistema: Linux 
  <br/><br/>
  <div style="display:flex">
   <a href="https://github.com/antniocr010">
@@ -13,16 +13,14 @@
   <img align="center" alt="AT-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="AT-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img align="center" alt="AT-vuejs" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img align="center" alt="AT-sass" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" alt="AT-bootstrap" height="30" width="40" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="AT-vuejs" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="AT-git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="center" alt="AT-npm" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="AT-nodejs" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <div></div>
