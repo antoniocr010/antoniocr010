@@ -19,7 +19,7 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="AT-sass" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img aling="center" alt"AT-tailwind" height="30" width="40" 
+    <img align="center" alt"AT-tailwindcss" height="30" width="40" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />      
   <img align="center" alt="AT-git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
