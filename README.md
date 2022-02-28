@@ -15,10 +15,12 @@
   <img align="center" alt="AT-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    <img align="center" alt="AT-vuejs" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img align="center" alt="AT-sass" height="30" width="40" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" alt="AT-bootstrap" height="30" width="40" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="AT-sass" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img aling="center" alt"AT-tailwind" height="30" width="40" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />      
   <img align="center" alt="AT-git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="AT-nodejs" height="30" width="40"
