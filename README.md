@@ -1,6 +1,6 @@
 <h4>👨🏻‍💻 SOBRE MIM:</h4>
 -📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
--🌱 Habilidades: Vue JS, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
+-🌱 Habilidades: VueJs, NuxtJs JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
 -🖥 Ferramentas: VSCode, Terminal, Git // Sistema: Linux 
  <br/><br/>
  <div style="display:flex">
@@ -15,6 +15,7 @@
   <img align="center" alt="AT-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    <img align="center" alt="AT-vuejs" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="AT-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
     <img align="center" alt="AT-bootstrap" height="30" width="40" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="AT-sass" height="30" width="40" 
