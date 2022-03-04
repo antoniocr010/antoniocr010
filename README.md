@@ -1,5 +1,4 @@
 <h4>👨🏻‍💻 SOBRE MIM:</h4>
--📝 Atuando com desenvolvimento web e resolvendo problemas. <br/>
 -🌱 Habilidades: VueJs, NuxtJs JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
 -🖥 Ferramentas: VSCode, Terminal, Git // Sistema: Linux 
  <br/><br/>
