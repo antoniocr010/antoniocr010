@@ -1,6 +1,6 @@
 <h4>👨🏻‍💻 ABOUT ME:</h4>
 -🌱 Skills: VueJs, NuxtJs, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
--🖥 Tools: VSCode, Terminal, Git // System: Linux
+-🖥 Tools: VSCode, Terminal, Git, Linux
  <br/><br/>
  <div style="display:flex">
   <a href="https://github.com/antniocr010">
