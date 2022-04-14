@@ -1,6 +1,7 @@
 <h4>👨🏻‍💻 ABOUT ME:</h4>
--🌱 Skills: VueJs, NuxtJs, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
--🖥 Tools: VSCode, Terminal, Git, Linux
+-🌱 Skills: VueJs, NuxtJs, React,NextJs JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass<br/>
+-🖥 Tools: VSCode, Docker, Terminal, Git, Linux
+-🔧 
  <br/><br/>
  <div style="display:flex">
   <a href="https://github.com/antniocr010">
@@ -15,6 +16,8 @@
    <img align="center" alt="AT-vuejs" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="AT-nuxtjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+  <img align="center" alt="AT-R" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="AT-R" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="AT-bootstrap" height="30" width="40" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="AT-sass" height="30" width="40" 
