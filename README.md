@@ -29,7 +29,6 @@
 
 - 🏑 Hoje trabalho como freelance
 - 📖 Skills: VueJs, NuxtJs, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass
-- 🌱 Atualmente estudando React
 
  <div>  
   <a href="https://www.linkedin.com/in/antonio-massaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
