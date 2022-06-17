@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/c4/d2/5d/c4d25d156675933ab63679f4952fd222.gif" width="700" height="230"/>
-</div>
-
 ### Muito prazer, eu sou Antonio!! 🤙
 <div style="display:flex"><br>
   <img align="center" alt="AT-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
