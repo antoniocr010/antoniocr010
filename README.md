@@ -9,12 +9,14 @@
   <img align="center" alt="AT-nuxtjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img align="center" alt="AT-R" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="AT-RN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   <img align="center" alt="AT-sass" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" alt="AT-bootstrap" height="30" width="40" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="AT-sass" height="30" width="40" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" alt"AT-tailwindcss" height="30" width="40" 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />      
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
+  <img align="center" alt="AT-postgresql" haigth="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />  
   <img align="center" alt="AT-git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="AT-nodejs" height="30" width="40"
@@ -25,7 +27,7 @@
 
 
 - 🏑 Hoje trabalho como freelance
-- 📖 Skills: VueJs, NuxtJs, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass
+- 📖 Skills: VueJs, NuxtJs, React, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass
 
  <div>  
   <a href="https://www.linkedin.com/in/antonio-massaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
