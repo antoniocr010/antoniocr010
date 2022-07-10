@@ -27,7 +27,7 @@
 
 
 
-- 🏑 Hoje trabalho como freelance
+
 - 📖 Skills: VueJs, NuxtJs, React, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass
 
  <div>  
