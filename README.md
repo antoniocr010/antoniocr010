@@ -35,10 +35,5 @@
      <a href = "mailto:antoniobr.dev010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
    <div>
 
-#### Github's Status
 
-<div style="display:flex">
-  <a href="https://github.com/antniocr010">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=antoniocr010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocr010&layout=compact&langs_count=7&theme=tokyonight"/>
-</div><div display='flex'>
+
