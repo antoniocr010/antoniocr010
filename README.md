@@ -18,6 +18,8 @@
   <img align="center" alt="AT-postgresql" haigth="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> 
        <img align="center" alt="AT-graphql" haigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+   <img align="center" alt="AT-docker" height="45" width="43" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="AT-git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="AT-nodejs" height="30" width="40"
