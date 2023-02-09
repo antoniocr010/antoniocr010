@@ -1,8 +1,11 @@
-<p align="center">
- <h1 align="center">Hi! Welcome to my profile 🤙 </h1>
-</p>
+<div align="center">
 
-<h2>About me:</h2>
+### Hi! Welcome to my profile 🤙 
+</div>
+<hr/>
+
+
+### About me
 <div>
 - 🌱  Front End Developer<br/>
 - 📖 Skills: VueJs, NuxtJs, React, NextJs, JavaScript, ES6+, TypeScript, RestAPI, HTML, CSS, Sass 
@@ -49,8 +52,9 @@
   <img align="center" alt="AT-eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
           
   </div>
-  <br>
- <h2>Contact me:</h2>
+  <hr/>
+  
+ ### Contact me
  <a href="https://www.linkedin.com/in/antonio-massaia/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
